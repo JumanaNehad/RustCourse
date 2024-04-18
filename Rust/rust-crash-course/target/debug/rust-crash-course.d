@@ -1,0 +1,1 @@
+C:\Users\Nihad\Desktop\Rust\rust-crash-course\target\debug\rust-crash-course.exe: C:\Users\Nihad\Desktop\Rust\rust-crash-course\src\main.rs C:\Users\Nihad\Desktop\Rust\rust-crash-course\src\optionals.rs
